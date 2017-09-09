@@ -6,5 +6,7 @@ A game where you need to move to the end goal with a grappling hook, within a ti
 
 Believe it or not, this mainly served as a test for rendering tiled maps using WebGL, with a kind of deferred lighting setup. This was the bulk of the game's development - ideally more time could have been spent on levels or art, but I wanted to try something new instead.
 
+If you feel the game is too complicated to jump into immediately, you can mess around in the practice mode at /sandbox.html.
+
 Ludum Dare page:
 http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=7339
